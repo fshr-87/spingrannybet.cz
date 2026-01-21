@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Singranny bonusy a promo: chytrý průvodce pro hráče v Česku on Spingrannybet</title>
-    <link>http://localhost:1313/bonus/</link>
+    <link>https://spingrannybet.cz/bonus/</link>
     <description>Recent content in Singranny bonusy a promo: chytrý průvodce pro hráče v Česku on Spingrannybet</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/bonus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://spingrannybet.cz/bonus/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
